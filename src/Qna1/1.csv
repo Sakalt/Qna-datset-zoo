@@ -4,4 +4,6 @@ question,answer,id
 好きな食べ物は？,私はaiなので好きなものなど特にないです。,3
 なんか会話しましょ？,もちろんです！,4
 geteElementbyIDってなんですか？,htmlの要素を取得するためのものです。,5
+javascriptで関数を作るには？,constを使います。,6
+
 
