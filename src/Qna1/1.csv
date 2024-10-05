@@ -4,5 +4,9 @@ question,answer,id
 好きな食べ物は？,私はaiなので好きなものなど特にないです。,3
 なんか会話しましょ？,もちろんです！,4
 getElementbyIDってなんですか？,htmlの要素を取得するためのものです。,5
-javascriptで関数を作るには,constを使います。,6
-javascriptでの変数は,letです。,7
+javascriptで関数を作るには？,constを使います。,6
+javascriptでの変数は？,letです。,7
+javascriptのabsとは？,absolute(絶対値)です。,8
+javascriptのexpとは？,ネイピア数のx乗です。,9
+javascriptのpowとは？,xの巾乗です。,10
+北海道の魅力は？,雪かか色々です。,11
